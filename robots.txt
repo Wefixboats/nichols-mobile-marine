@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wefixboats.github.io/nichols-mobile-marine/sitemap.xml
